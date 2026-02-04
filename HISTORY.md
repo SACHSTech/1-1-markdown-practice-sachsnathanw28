@@ -3,10 +3,10 @@
 ## 1. Introduction  
 Hip hop is more than just a genre of music. It is a cultural movement that began in the Bronx, New York City in the early 1970s. It encompasses four main elements:  
 
-- MCing (Rapping)  
-- DJing (Turntablism)  
-- Breakdancing (B-boying)  
-- Graffiti Art  
+**- MCing (Rapping)**  
+**- DJing (Turntablism)**  
+**- Breakdancing (B-boying)**  
+**- Graffiti Art**  
 
 Together, these four pillars shaped a global cultural force. Today, hip hop is one of the most influential musical genres worldwide, though many argue that its commercial evolution has diluted some of its original authenticity.  
 
@@ -47,9 +47,9 @@ As hip hop gained traction, artists began recording tracks commercially.
 This era emphasized lyrical complexity, innovation in production, and a broad diversity of styles.  
 
 ### 4.1 East Coast Greats  
-**- A Tribe Called Quest** – jazz-influenced beats, socially conscious lyrics.  
-**- The Notorious B.I.G.** – storytelling genius, Ready to Die (1994).  
-**- Nas** – Illmatic (1994), often considered one of the greatest hip hop albums ever.  
+- **A Tribe Called Quest** – jazz-influenced beats, socially conscious lyrics.
+- **The Notorious B.I.G.** – storytelling genius, Ready to Die (1994).
+- **Nas** – Illmatic (1994), often considered one of the greatest hip hop albums ever.  
 
 ### 4.2 West Coast Pioneers  
 - **N.W.A.** – brought gangsta rap to the forefront with Straight Outta Compton (1988).  
