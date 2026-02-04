@@ -6,7 +6,7 @@ Hip hop is more than just a genre of music. It is a cultural movement that began
 **- MCing (Rapping)**  
 **- DJing (Turntablism)**  
 **- Breakdancing (B-boying)**  
-**- Graffiti Art**  
+**- Graffiti Art**   n
 
 Together, these four pillars shaped a global cultural force. Today, hip hop is one of the most influential musical genres worldwide, though many argue that its commercial evolution has diluted some of its original authenticity.  
 
