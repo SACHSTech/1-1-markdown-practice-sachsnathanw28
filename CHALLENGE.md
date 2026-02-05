@@ -44,10 +44,18 @@ Test your knowledge of Markdown syntax with these examples. Can you re-create th
     - MongoDB
     - Redis
 
-Example 2
-This is a single paragraph sentence that should break softly with two spaces at the end of the previous line. Here’s the continuation of the same paragraph. Now this is a hard break (blank line above), which creates a brand new paragraph.
+# Example 2
 
-Example 3
+*** 
+
+This is a single paragraph sentence that  
+should break softly with two spaces at the end of the previous line.  
+Here’s the continuation of the same paragraph.  
+
+Now this is a hard break (blank line above),  
+which creates a brand new paragraph.
+
+# Example 3
 A minimal Markdown logo in black and white
 image source: https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg
 link for image click: https://www.markdownguide.org
