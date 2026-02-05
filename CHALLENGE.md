@@ -1,31 +1,44 @@
-Tricky Examples
+# Tricky Examples
+
+***
+
 Test your knowledge of Markdown syntax with these examples. Can you re-create them without looking anything up?
 
-Example 1
-Programming Languages
-Python
-Popular Frameworks
-Django
-Flask
-Notable Features
-Dynamic typing
-Huge ecosystem
-JavaScript
-Frontend
-React
-Vue
-Angular
-Backend
-Node.js
-Deno
+## Example 1
 
-Databases
-Relational
-PostgreSQL
-MySQL
-NoSQL
-MongoDB
-Redis
+***
+
+1. Programming Languages
+  - Python  
+
+
+    a. Popular Frameworks
+      - Django
+      - Flask
+        
+    b. Notable Features
+      - Dynamic typing
+      - Huge ecosystem
+
+- JavaScript
+
+
+    a. Frontend
+    - React
+    - Vue
+    - Angular
+
+    b. Backend
+    - Node.js
+    - Deno
+
+2. Databases
+  - Relational    
+    a. PostgreSQL  
+    b. MySQL    
+  - NoSQL
+    - MongoDB
+    - Redis
 
 Example 2
 This is a single paragraph sentence that should break softly with two spaces at the end of the previous line. Here’s the continuation of the same paragraph. Now this is a hard break (blank line above), which creates a brand new paragraph.
