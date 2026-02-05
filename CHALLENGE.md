@@ -33,9 +33,13 @@ Test your knowledge of Markdown syntax with these examples. Can you re-create th
     - Deno
 
 2. Databases
-  - Relational    
-    a. PostgreSQL  
-    b. MySQL    
+  - Relational
+
+    
+      a. PostgreSQL
+
+  
+      b. MySQL
   - NoSQL
     - MongoDB
     - Redis
