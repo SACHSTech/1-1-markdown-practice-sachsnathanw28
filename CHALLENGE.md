@@ -71,14 +71,8 @@ Click the image above to visit the Markdown Guide website.
 > > > prove that innovation and depth are still alive.  
 
 # Example 5
-Tool, Strengths, Weaknesses
-GitHub
-Easy collaboration, integrates CI/CD
-Requires knowledge of git
-
-Markdown
-Lightweight, portable, human-readable
-Limited styling compared to HTML
-
-VS CodeExtensions, debugging, free
-Can feel heavy on low-end machines
+| Tool | Strengths | Weaknesses |  
+| ---- | --------- | ---------- |
+|GitHub| Easy collaboration, integrates CI/CD|Requires knowledge of git |
+|Markdown| Lightweight, portable, human-readable | Limited styling compared to HTML |
+|VS CodeExtensions| Extensions, debugging, free | Can feel heavy on low-end machines |
