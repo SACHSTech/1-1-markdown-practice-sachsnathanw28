@@ -9,38 +9,37 @@ Test your knowledge of Markdown syntax with these examples. Can you re-create th
 ***
 
 1. Programming Languages  
-  - Python  
-    a. Popular Frameworks
-    - Django
-    - Flask
-        
-    b. Notable Features
+    - Python
+      
+      a. Popular Frameworks
+      - Django
+      - Flask
+
+      b. Notable Features
       - Dynamic typing
       - Huge ecosystem
 
-- JavaScript
+    - JavaScript
 
-
-    a. Frontend
-    - React
-    - Vue
-    - Angular
-
-    b. Backend
-    - Node.js
-    - Deno
+      a. Frontend
+      - React
+      - Vue
+      - Angular
+        
+      b. Backend
+      - Node.js
+      - Deno
 
 2. Databases
-  - Relational
+    - Relational
 
-    
       a. PostgreSQL
 
       b. MySQL
     
-  - NoSQL
-    - MongoDB
-    - Redis
+    - NoSQL
+      - MongoDB
+      - Redis
 
 # Example 2
 
@@ -54,22 +53,24 @@ Now this is a hard break (blank line above),
 which creates a brand new paragraph.
 
 # Example 3
-![A minimal Markdown logo in black and white](https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg)https://www.markdownguide.org
+[![Markdown Logo](https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg)](https://www.markdownguide.org)
   
 Click the image above to visit the Markdown Guide website.
 
 > NOTE: The above image source is https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg. It uses the alt text A minimal Markdown logo in black and white and, when clicked, takes the user to the website at https://www.markdownguide.org
 
-Example 4
-“The thing about hip hop today is it's smart, it's insightful. The way they can communicate a complex message in a very short space is remarkable.” – Barack Obama
+# Example 4
+> “The thing about hip hop today is it's smart, it's insightful.  
+> The way they can communicate a complex message in a very short space is remarkable.”
+>   
+> – Barack Obama
+> > But some argue:
+> > - Lyrics have become repetitive
+> > - Production is formulaic
+> > > And yet, within that, artists like *Kendrick Lamar*  
+> > > prove that innovation and depth are still alive.  
 
-But some argue:
-Lyrics have become repetitive
-Production is formulaic
-
-And yet, within that, artists like *Kendrick Lamar* prove that innovation and depth are still alive.  
-
-Example 5
+# Example 5
 Tool, Strengths, Weaknesses
 GitHub
 Easy collaboration, integrates CI/CD
